@@ -3,7 +3,7 @@
 # Abusive Administrative Commands Guidelines
 
 **Authors:** wends0_0, Fearoux, Voixy, Zleck98  
-**Last Updated:** March 19th, 2024  
+**Last Updated:** March 19th, 2025  
 **Version:** 1.0
 
 ---
