@@ -1,11 +1,9 @@
-![NSA Logo]
-
 # United States Armed Forces
-## National Security Agency
+### National Security Agency
 # Abusive Administrative Commands Guidelines
 
-**Authors:** wends0_0, Fearoux, Voixy  
-**Last Updated:** November 9th, 2024  
+**Authors:** wends0_0, Fearoux, Voixy, Zleck98  
+**Last Updated:** March 19th, 2024  
 **Version:** 1.0
 
 ---
